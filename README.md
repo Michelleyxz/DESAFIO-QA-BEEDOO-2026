@@ -93,6 +93,19 @@ Resultado esperado:
 
 O curso deve ser removido da lista.
 
+
+Possíveis Melhorias Identificadas
+
+Durante a análise da aplicação, algumas melhorias podem ser consideradas:
+
+Melhorar mensagens de erro para o usuário
+
+Implementar validação mais robusta para caracteres inválidos
+
+Adicionar confirmação antes de excluir cursos
+
+Implementar testes automatizados para os fluxos principais
+
 Estratégia de Testes
 
 A estratégia utilizada foi baseada em:
@@ -108,5 +121,6 @@ Exploração manual da aplicação
 Isso permite verificar se o sistema responde corretamente a diferentes cenários de uso.
 
 Conclusão
+
 A exploração da aplicação permitiu identificar os principais fluxos de cadastro e validação de cursos.
 Os testes documentados ajudam a garantir que o sistema funcione corretamente e que entradas inválidas sejam tratadas adequadamente.
