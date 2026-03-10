@@ -110,8 +110,4 @@ Isso permite verificar se o sistema responde corretamente a diferentes cenários
 A exploração da aplicação permitiu identificar os principais fluxos de cadastro e validação de cursos.
 
 Conclusão
-
-Os testes documentados ajudam a garantir que o sistema funcione corretamente e que entradas inválidas sejam tratadas adequadamente.
-
-
 Os testes documentados ajudam a garantir que o sistema funcione corretamente e que entradas inválidas sejam tratadas adequadamente.
